@@ -1,17 +1,17 @@
-ML+biodiversity,WOS_counts
-Random forest AND biodiversity,1120
-Regression tree AND biodiversity,962
-decision tree AND biodiversity,667
-Logistic regression AND biodiversity,547
-boosting AND biodiversity,531
-Maximum entropy AND biodiversity,359
-machine learning AND biodiversity,264
-Neural Network AND biodiversity,254
-Support vector machine AND biodiversity,142
-deep learning AND biodiversity,77
-Partial least square regression AND biodiversity,75
-computer vision AND biodiversity,42
-Gaussian process model AND biodiversity,24
-Convolutional Neural Network AND biodiversity,20
-Fully connected neural network AND biodiversity,0
-Generative adversarial model AND biodiversity,0
+ML+biodiversity,WOS_counts,ML
+Random forest AND biodiversity,1120,Random forest 
+Regression tree AND biodiversity,962,Regression tree 
+decision tree AND biodiversity,667,decision tree 
+Logistic regression AND biodiversity,547,Logistic regression 
+boosting AND biodiversity,531,boosting 
+Maximum entropy AND biodiversity,359,Maximum entropy 
+machine learning AND biodiversity,264,machine learning 
+Neural Network AND biodiversity,254,Neural Network 
+Support vector machine AND biodiversity,142,Support vector machine 
+deep learning AND biodiversity,77,deep learning 
+Partial least square regression AND biodiversity,75,Partial least square regression 
+computer vision AND biodiversity,42,computer vision 
+Gaussian process model AND biodiversity,24,Gaussian process model 
+Convolutional Neural Network AND biodiversity,20,Convolutional Neural Network 
+Fully connected neural network AND biodiversity,0,Fully connected neural network 
+Generative adversarial model AND biodiversity,0,Generative adversarial model 
