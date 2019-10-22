@@ -1,0 +1,18 @@
+---
+title: "visualize ml biodiversity WOS hits"
+author: "Tao Huang"
+date: "October 22, 2019"
+output: html_document
+---
+
+```{r}
+hit<-read.csv("C:/Users/huangt/Documents/ml_biodiversity_hits.csv")
+head(hit)
+lbls <- hit$ML
+
+slices <- hit$WOS_count
+jpeg(filename = "C:/Users/huangt/Documents/pie.jpg")
+pie(slices, labels = lbls, main="ML approaches applied in biodiversity")
+dev.off()
+```
+
