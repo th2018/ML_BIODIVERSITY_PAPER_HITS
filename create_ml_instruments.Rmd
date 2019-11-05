@@ -1,6 +1,6 @@
 
 ```{r}
-ml<-read.csv("C:/Users/huangt/Downloads/ML_BIODIVERSITY_PAPER_HITS-master/ML.csv")
+ml<-read.csv("C:/Users/huangt/Downloads/ML_BIODIVERSITY_PAPER_HITS-master/ml.csv")
 head(ml)
 
 instr<-read.csv("C:/Users/huangt/Downloads/ML_BIODIVERSITY_PAPER_HITS-master/instr.csv")
@@ -10,13 +10,14 @@ head(instr)
 
 ```{r}
 ml$instr<-""
-
+ml2<-ml
 for (i in instr$instr)
 {
-  ml$instr<-paste(ml$ML,"AND",instr$instr,"AND biodiversity")
+  ml$instr<-paste(ml$ML,"AND",i,"AND biodiversity")
   print (head(ml))
-  ml<-rbind(ml,ml)
+  ml2<-rbind(ml2,ml)
 }
-write.csv(unique(ml$instr),file="C:/Users/huangt/Downloads/ML_BIODIVERSITY_PAPER_HITS-master/ml_instr.csv")
+write.csv(unique(ml2$instr),file="C:/Users/huangt/Downloads/ML_BIODIVERSITY_PAPER_HITS-master/ml_instr.csv")
 ```
+
 

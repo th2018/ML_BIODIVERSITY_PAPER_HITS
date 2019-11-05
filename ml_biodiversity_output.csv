@@ -1,71 +1,151 @@
 Search term,WOS hit
+Random forest  AND LIDAR AND biodiversity,47
+Random forest  AND Remote sensing imagery AND biodiversity,43
+Regression tree  AND LIDAR AND biodiversity,43
+Regression tree  AND Remote sensing imagery AND biodiversity,30
+Support vector machine  AND Remote sensing imagery AND biodiversity,25
 machine learning  AND acoustic AND biodiversity,21
+Support vector machine  AND LIDAR AND biodiversity,21
+Neural Network  AND Remote sensing imagery AND biodiversity,19
+decision tree  AND Remote sensing imagery AND biodiversity,15
+machine learning  AND LIDAR AND biodiversity,15
 Random forest  AND acoustic AND biodiversity,14
+decision tree  AND LIDAR AND biodiversity,12
 Neural Network  AND acoustic AND biodiversity,11
-deep learning  AND acoustic AND biodiversity,8
+machine learning  AND Remote sensing imagery AND biodiversity,11
 Support vector machine  AND acoustic AND biodiversity,8
-Regression tree  AND acoustic AND biodiversity,6
+deep learning  AND acoustic AND biodiversity,8
+Logistic regression  AND Remote sensing imagery AND biodiversity,8
+Partial least square regression  AND Remote sensing imagery AND biodiversity,8
+artificialÿneural network AND Remote sensing imagery AND biodiversity,7
+Logistic regression  AND LIDAR AND biodiversity,7
+boosting  AND LIDAR AND biodiversity,7
 Logistic regression  AND Camera trap AND biodiversity,6
-decision tree  AND acoustic AND biodiversity,4
+Regression tree  AND acoustic AND biodiversity,6
+boosting  AND Remote sensing imagery AND biodiversity,5
+Maximum entropy  AND Remote sensing imagery AND biodiversity,5
+computer vision  AND Remote sensing imagery AND biodiversity,5
+Deep Neural Network  AND Remote sensing imagery AND biodiversity,5
 Random forest  AND Camera trap AND biodiversity,4
-Convolutional Neural Network  AND acoustic AND biodiversity,4
+decision tree  AND acoustic AND biodiversity,4
 boosting  AND acoustic AND biodiversity,4
+Convolutional Neural Network  AND acoustic AND biodiversity,4
 Deep Neural Network  AND acoustic AND biodiversity,4
+deep learning  AND Remote sensing imagery AND biodiversity,4
 Maximum entropy  AND Camera trap AND biodiversity,3
 Neural Network  AND Camera trap AND biodiversity,3
 Gaussian process model  AND acoustic AND biodiversity,3
+artificialÿneural network AND acoustic AND biodiversity,3
+Convolutional Neural Network  AND Remote sensing imagery AND biodiversity,3
+Neural Network  AND LIDAR AND biodiversity,3
 machine learning  AND Camera trap AND biodiversity,2
 deep learning  AND Camera trap AND biodiversity,2
-Maximum entropy  AND acoustic AND biodiversity,2
-Deep Neural Network  AND Camera trap AND biodiversity,2
 computer vision  AND Camera trap AND biodiversity,2
-decision tree  AND Camera trap AND biodiversity,1
-Logistic regression  AND acoustic AND biodiversity,1
-computer vision  AND acoustic AND biodiversity,1
+Deep Neural Network  AND Camera trap AND biodiversity,2
+artificialÿneural network AND Camera trap AND biodiversity,2
+Maximum entropy  AND acoustic AND biodiversity,2
+Maximum entropy  AND LIDAR AND biodiversity,2
+deep learning  AND LIDAR AND biodiversity,2
+Partial least square regression  AND LIDAR AND biodiversity,2
+Deep Neural Network  AND LIDAR AND biodiversity,2
 Regression tree  AND Camera trap AND biodiversity,1
-Partial least square regression  AND acoustic AND biodiversity,1
-Convolutional Neural Network  AND Camera trap AND biodiversity,1
+decision tree  AND Camera trap AND biodiversity,1
 boosting  AND Camera trap AND biodiversity,1
 Support vector machine  AND Camera trap AND biodiversity,1
-Random forest  AND temperature data logger AND biodiversity,0
-Regression tree  AND trail camera AND biodiversity,0
-Random forest  AND temperature data logger AND biodiversity,0
-Regression tree  AND trail camera AND biodiversity,0
-boosting  AND temperature data logger AND biodiversity,0
-Maximum entropy  AND trail camera AND biodiversity,0
-Support vector machine  AND temperature data logger AND biodiversity,0
-deep learning  AND trail camera AND biodiversity,0
-Partial least square regression  AND Camera trap AND biodiversity,0
-Gaussian process model  AND temperature data logger AND biodiversity,0
-Convolutional Neural Network  AND trail camera AND biodiversity,0
-Fully connected neural network  AND Camera trap AND biodiversity,0
-Generative adversarial model  AND acoustic AND biodiversity,0
-Deep Neural Network  AND temperature data logger AND biodiversity,0
-Random forest  AND trail camera AND biodiversity,0
-Logistic regression  AND temperature data logger AND biodiversity,0
-boosting  AND trail camera AND biodiversity,0
-Neural Network  AND temperature data logger AND biodiversity,0
-Support vector machine  AND trail camera AND biodiversity,0
-computer vision  AND temperature data logger AND biodiversity,0
-Gaussian process model  AND trail camera AND biodiversity,0
-Fully connected neural network  AND acoustic AND biodiversity,0
-Generative adversarial model  AND temperature data logger AND biodiversity,0
-Deep Neural Network  AND trail camera AND biodiversity,0
-decision tree  AND temperature data logger AND biodiversity,0
-Logistic regression  AND trail camera AND biodiversity,0
-machine learning  AND temperature data logger AND biodiversity,0
-Neural Network  AND trail camera AND biodiversity,0
-Partial least square regression  AND temperature data logger AND biodiversity,0
-computer vision  AND trail camera AND biodiversity,0
-Gaussian process model  AND Camera trap AND biodiversity,0
-Fully connected neural network  AND temperature data logger AND biodiversity,0
-Generative adversarial model  AND trail camera AND biodiversity,0
+Convolutional Neural Network  AND Camera trap AND biodiversity,1
+Logistic regression  AND acoustic AND biodiversity,1
+Partial least square regression  AND acoustic AND biodiversity,1
+computer vision  AND acoustic AND biodiversity,1
+recurrent neural network AND Remote sensing imagery AND biodiversity,1
+computer vision  AND LIDAR AND biodiversity,1
+Gaussian process model  AND LIDAR AND biodiversity,1
+Convolutional Neural Network  AND LIDAR AND biodiversity,1
 Regression tree  AND temperature data logger AND biodiversity,0
-decision tree  AND trail camera AND biodiversity,0
+decision tree  AND temperature data logger AND biodiversity,0
+Logistic regression  AND temperature data logger AND biodiversity,0
+boosting  AND temperature data logger AND biodiversity,0
 Maximum entropy  AND temperature data logger AND biodiversity,0
-machine learning  AND trail camera AND biodiversity,0
+machine learning  AND temperature data logger AND biodiversity,0
+Neural Network  AND temperature data logger AND biodiversity,0
+Support vector machine  AND temperature data logger AND biodiversity,0
 deep learning  AND temperature data logger AND biodiversity,0
-Partial least square regression  AND trail camera AND biodiversity,0
+Partial least square regression  AND temperature data logger AND biodiversity,0
+computer vision  AND temperature data logger AND biodiversity,0
+Gaussian process model  AND temperature data logger AND biodiversity,0
 Convolutional Neural Network  AND temperature data logger AND biodiversity,0
+Fully connected neural network  AND temperature data logger AND biodiversity,0
+Generative adversarial model  AND temperature data logger AND biodiversity,0
+Deep Neural Network  AND temperature data logger AND biodiversity,0
+Generative adversarial network AND temperature data logger AND biodiversity,0
+Generative adversarial AND temperature data logger AND biodiversity,0
+recurrent neural network AND temperature data logger AND biodiversity,0
+artificialÿneural network AND temperature data logger AND biodiversity,0
+Random forest  AND trail camera AND biodiversity,0
+Regression tree  AND trail camera AND biodiversity,0
+decision tree  AND trail camera AND biodiversity,0
+Logistic regression  AND trail camera AND biodiversity,0
+boosting  AND trail camera AND biodiversity,0
+Maximum entropy  AND trail camera AND biodiversity,0
+machine learning  AND trail camera AND biodiversity,0
+Neural Network  AND trail camera AND biodiversity,0
+Support vector machine  AND trail camera AND biodiversity,0
+deep learning  AND trail camera AND biodiversity,0
+Partial least square regression  AND trail camera AND biodiversity,0
+computer vision  AND trail camera AND biodiversity,0
+Gaussian process model  AND trail camera AND biodiversity,0
+Convolutional Neural Network  AND trail camera AND biodiversity,0
 Fully connected neural network  AND trail camera AND biodiversity,0
+Generative adversarial model  AND trail camera AND biodiversity,0
+Deep Neural Network  AND trail camera AND biodiversity,0
+Generative adversarial network AND trail camera AND biodiversity,0
+Generative adversarial AND trail camera AND biodiversity,0
+recurrent neural network AND trail camera AND biodiversity,0
+artificialÿneural network AND trail camera AND biodiversity,0
+Partial least square regression  AND Camera trap AND biodiversity,0
+Gaussian process model  AND Camera trap AND biodiversity,0
+Fully connected neural network  AND Camera trap AND biodiversity,0
 Generative adversarial model  AND Camera trap AND biodiversity,0
+Generative adversarial network AND Camera trap AND biodiversity,0
+Generative adversarial AND Camera trap AND biodiversity,0
+recurrent neural network AND Camera trap AND biodiversity,0
+Fully connected neural network  AND acoustic AND biodiversity,0
+Generative adversarial model  AND acoustic AND biodiversity,0
+Generative adversarial network AND acoustic AND biodiversity,0
+Generative adversarial AND acoustic AND biodiversity,0
+recurrent neural network AND acoustic AND biodiversity,0
+Gaussian process model  AND Remote sensing imagery AND biodiversity,0
+Fully connected neural network  AND Remote sensing imagery AND biodiversity,0
+Generative adversarial model  AND Remote sensing imagery AND biodiversity,0
+Generative adversarial network AND Remote sensing imagery AND biodiversity,0
+Generative adversarial AND Remote sensing imagery AND biodiversity,0
+Fully connected neural network  AND LIDAR AND biodiversity,0
+Generative adversarial model  AND LIDAR AND biodiversity,0
+Generative adversarial network AND LIDAR AND biodiversity,0
+Generative adversarial AND LIDAR AND biodiversity,0
+recurrent neural network AND LIDAR AND biodiversity,0
+artificialÿneural network AND LIDAR AND biodiversity,0
+Random forest  AND Eddy covariance AND biodiversity,0
+Regression tree  AND Eddy covariance AND biodiversity,0
+decision tree  AND Eddy covariance AND biodiversity,0
+Logistic regression  AND Eddy covariance AND biodiversity,0
+boosting  AND Eddy covariance AND biodiversity,0
+Maximum entropy  AND Eddy covariance AND biodiversity,0
+machine learning  AND Eddy covariance AND biodiversity,0
+Neural Network  AND Eddy covariance AND biodiversity,0
+Support vector machine  AND Eddy covariance AND biodiversity,0
+deep learning  AND Eddy covariance AND biodiversity,0
+Partial least square regression  AND Eddy covariance AND biodiversity,0
+computer vision  AND Eddy covariance AND biodiversity,0
+Gaussian process model  AND Eddy covariance AND biodiversity,0
+Convolutional Neural Network  AND Eddy covariance AND biodiversity,0
+Fully connected neural network  AND Eddy covariance AND biodiversity,0
+Generative adversarial model  AND Eddy covariance AND biodiversity,0
+Deep Neural Network  AND Eddy covariance AND biodiversity,0
+Generative adversarial network AND Eddy covariance AND biodiversity,0
+Generative adversarial AND Eddy covariance AND biodiversity,0
+recurrent neural network AND Eddy covariance AND biodiversity,0
+artificialÿneural network AND Eddy covariance AND biodiversity,0
+,
+,
+,
+,
