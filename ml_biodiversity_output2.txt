@@ -1,0 +1,53 @@
+Search	Hit	terr_or_aqu
+Support vector machine  AND  Terrestrial biodiversity	2	Terrestrial
+Support vector machine  AND  Aquatic biodiversity	4	Aquatic
+Regression tree  AND  Terrestrial biodiversity	43	Terrestrial
+Regression tree  AND  Aquatic biodiversity	45	Aquatic
+recurrent neural network AND  Terrestrial biodiversity	0	Terrestrial
+recurrent neural network AND  Aquatic biodiversity	0	Aquatic
+Random forest  AND  Terrestrial biodiversity	62	Terrestrial
+Random forest  AND  Aquatic biodiversity	37	Aquatic
+Partial least square regression  AND  Terrestrial biodiversity	5	Terrestrial
+Partial least square regression  AND  Aquatic biodiversity	3	Aquatic
+Neural Network  AND  Terrestrial biodiversity	6	Terrestrial
+Neural Network  AND  Aquatic biodiversity	22	Aquatic
+Natural language processing AND  Terrestrial biodiversity	2	Terrestrial
+Natural language processing AND  Aquatic biodiversity	2	Aquatic
+Maximum entropy  AND  Terrestrial biodiversity	16	Terrestrial
+Maximum entropy  AND  Aquatic biodiversity	12	Aquatic
+machine learning  AND  Terrestrial biodiversity	20	Terrestrial
+machine learning  AND  Aquatic biodiversity	9	Aquatic
+Logistic regression  AND  Terrestrial biodiversity	27	Terrestrial
+Logistic regression  AND  Aquatic biodiversity	27	Aquatic
+genetic algorithm AND  Terrestrial biodiversity	10	Terrestrial
+genetic algorithm AND  Aquatic biodiversity	11	Aquatic
+Generative adversarial network AND  Terrestrial biodiversity	0	Terrestrial
+Generative adversarial network AND  Aquatic biodiversity	0	Aquatic
+Generative adversarial model  AND  Terrestrial biodiversity	0	Terrestrial
+Generative adversarial model  AND  Aquatic biodiversity	0	Aquatic
+Generative adversarial AND  Terrestrial biodiversity	0	Terrestrial
+Generative adversarial AND  Aquatic biodiversity	0	Aquatic
+Gaussian process model  AND  Terrestrial biodiversity	1	Terrestrial
+Gaussian process model  AND  Aquatic biodiversity	2	Aquatic
+Fully connected neural network  AND  Terrestrial biodiversity	0	Terrestrial
+Fully connected neural network  AND  Aquatic biodiversity	0	Aquatic
+extreme learning AND  Terrestrial biodiversity	1	Terrestrial
+extreme learning AND  Aquatic biodiversity	0	Aquatic
+Deep Neural Network  AND  Terrestrial biodiversity	1	Terrestrial
+Deep Neural Network  AND  Aquatic biodiversity	1	Aquatic
+deep learning  AND  Terrestrial biodiversity	4	Terrestrial
+deep learning  AND  Aquatic biodiversity	2	Aquatic
+decision tree  AND  Terrestrial biodiversity	33	Terrestrial
+decision tree  AND  Aquatic biodiversity	20	Aquatic
+Convolutional Neural Network  AND  Terrestrial biodiversity	1	Terrestrial
+Convolutional Neural Network  AND  Aquatic biodiversity	1	Aquatic
+computer vision  AND  Terrestrial biodiversity	1	Terrestrial
+computer vision  AND  Aquatic biodiversity	1	Aquatic
+boosting  AND  Terrestrial biodiversity	31	Terrestrial
+boosting  AND  Aquatic biodiversity	40	Aquatic
+boosted AND  Terrestrial biodiversity	31	Terrestrial
+boosted AND  Aquatic biodiversity	40	Aquatic
+autoencoder AND  Terrestrial biodiversity	0	Terrestrial
+autoencoder AND  Aquatic biodiversity	0	Aquatic
+artificial neural network AND  Terrestrial biodiversity	4	Terrestrial
+artificial neural network AND  Aquatic biodiversity	17	Aquatic
